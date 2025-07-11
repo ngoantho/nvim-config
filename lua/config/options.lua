@@ -10,7 +10,7 @@ vim.opt.number = true
 vim.opt.relativenumber = true
 
 -- Set shell
-vim.opt.shell = "C:/msys64/usr/bin/fish.exe"
+vim.opt.shell = "fish.exe"
 
 -- Set root to current file
 vim.opt.autochdir = true
